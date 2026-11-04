@@ -1,0 +1,16 @@
+{
+  "name": "Elevor360D Thumbnail Creator Pro",
+  "short_name": "Thumbnail Creator",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1423",
+  "theme_color": "#102238",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

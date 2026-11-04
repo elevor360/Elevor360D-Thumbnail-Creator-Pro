@@ -1,0 +1,1 @@
+Elevor360D Thumbnail Creator Pro V1. Upload all files and folders to the root of your GitHub Pages repository. Enable Pages in Settings > Pages. The advertising folder and original artwork are included.
